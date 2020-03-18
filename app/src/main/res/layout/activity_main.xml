@@ -15,7 +15,7 @@
         android:layout_marginLeft="20dp"
         android:layout_centerHorizontal="true"
         android:textAllCaps="true"
-        android:textSize="35dp"
+        android:textSize="40dp"
         android:textStyle="bold"
         />
 
